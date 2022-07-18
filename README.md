@@ -26,16 +26,10 @@ Users should be able to:
 - View each page and be able to toggle between the tabs to see new information
 
 ### Screenshot
-
-![Main Page](./preview.jpg)
-
+<img src="space-tourism-website-main\preview.jpg">
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [https://your-live-site-url.com](https://elaborate-cascaron-fd6be2.netlify.app/crew.html)
 
 ### Built with
 
